@@ -1,16 +1,26 @@
-# task_03
+# 📁 Task: Drag Gesture Demo
 
-A new Flutter project.
+```
+# Task 3: Drag Gesture Implementation
 
-## Getting Started
+This Flutter application demonstrates how drag gestures work by allowing users to move a widget freely across the screen.
 
-This project is a starting point for a Flutter application.
+## Features
+- Draggable container
+- Real-time position updates
+- Smooth movement using gesture tracking
 
-A few resources to get you started if this is your first Flutter project:
+## Concepts Used
+- `GestureDetector`
+- `onPanUpdate`
+- `Stack` and `Positioned`
+- Offset-based positioning
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Run
+1. Ensure Flutter is installed.
+2. Run:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+flutter run -d chrome
+```
