@@ -1,6 +1,5 @@
 # 📁 Task: Drag Gesture Demo
 
-```
 # Task 3: Drag Gesture Implementation
 
 This Flutter application demonstrates how drag gestures work by allowing users to move a widget freely across the screen.
